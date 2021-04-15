@@ -10,19 +10,11 @@ const sentenceGenerator = {
     "the god of turnips", "the Batman", "the chipmunk",
     "the race car", "the Hellhound", "the vampire",
     "the Werewolf", "Johnny Bravo", "Bugs Bunny"],
-    prepositionalPhrase : [],
-    generateSubject () {
-
-    },
-    generateVerb () {
-
-    },
-    generateObject () {
-
-    },
-    generatePrepositionalPhrase () {
-
-    },
+    prepositionalPhrases : ["by force.", "by mistake.",
+    "by no means.", "at a moment's notice.", "at night.",
+    "for a price.", "for a good cause.", "for a reason.",
+    "for a change.", "for love.", "for real.", "in exchange for kiss.",
+    "in fear of Goku.", "on schedule.", "on the record."],
     generateSentence () {
 
     }
